@@ -1,16 +1,45 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Everything about ME
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Experience
 
-What else do you need?
+**Software Engineer @ Google**
 
-### My story
+Jun 2022 - Present
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Mountain View, California, United States
+
+**Software Engineer Intern @ Microsoft**
+
+Aug 2020 - Jul 2021
+
+Beijing, China
+
+**Machine Learning Engineer Intern @ Bosch**
+
+May 2020 - Aug 2020
+
+Shanghai
+
+
+## Education
+
+**Duke University**
+
+Master's degree, Electrical and Computer Engineering
+
+2019 - 2022
+
+GPA: 4.0/4.0
+
+**Nanjing University**
+
+Bachelor's degree, Physics
+
+2015 - 2019
+
+GPA: 3.5/4.0
